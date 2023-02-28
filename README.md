@@ -14,7 +14,7 @@ Plus, all the easiest checks are done first, like searching for wallets enabled 
 
 My software detects the addressing scheme and algorith automatically.  You can change it if you want but I do not know why you would - but the option is there.  Could become in useful in the future.
 
-As you can imagine, the files are large.  Mostly because the seperate binaries are.  I am helped with the binaries and my colleagues require payments.
+In total, 17MB with the the seperate binaries are.  I am helped with the binaries and my colleagues require payments.
 .5 Eth - Half Etherium.  No negotiation.
 
 Contact me on Telegram: GenBen
