@@ -17,5 +17,5 @@ My software detects the addressing scheme and algorith automatically.  You can c
 In total, 17MB with the the seperate binaries are.  I am helped with the binaries and my colleagues require payments.
 .5 Eth - Half Etherium.  No negotiation.
 
-Contact me on Telegram: GenBen
+Contact me on Telegram: t.me/Genbentz
 or on genben@mail2tor.com
